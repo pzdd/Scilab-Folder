@@ -1,4 +1,6 @@
 //Algoritmo Leverrier - Autor: Geraldo Laurentino da Silva Neto
+//Trabalho da disciplina de Modelagem Integrada UFRN
+
 //casos de teste
 A=[-1 0 0;0 0 -1;0 1 -1]
 //A = [0 -400;25 -250]
